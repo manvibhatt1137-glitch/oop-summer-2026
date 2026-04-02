@@ -1,4 +1,4 @@
-class Empty:
+class Empty: 
     pass
 
 obj = Empty()
